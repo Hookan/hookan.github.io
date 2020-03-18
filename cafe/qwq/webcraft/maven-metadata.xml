@@ -3,13 +3,14 @@
   <groupId>cafe.qwq</groupId>
   <artifactId>webcraft</artifactId>
   <versioning>
-    <release>0.3.3</release>
+    <release>0.3.4</release>
     <versions>
       <version>0.2</version>
       <version>0.3.1</version>
       <version>0.3.2</version>
       <version>0.3.3</version>
+      <version>0.3.4</version>
     </versions>
-    <lastUpdated>20200317051553</lastUpdated>
+    <lastUpdated>20200318090459</lastUpdated>
   </versioning>
 </metadata>
